@@ -1,0 +1,12 @@
+Changelogs:-
+
+--> Trial OTA 
+ 
+**More Changes are there but i don't remember, lol**
+
+Currently All reported bugs fixed
+
+**Any Other bugs report with logs**
+
+Note:- Now we have moved to built-in spoof to support reading the values from an external package. 
+This will allow me to push updated resource apks instead of new builds for unrooted users to pass CTS/Play integrity API.

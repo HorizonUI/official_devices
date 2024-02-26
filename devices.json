@@ -1,0 +1,17 @@
+[
+   {
+      "brand": "Realme",
+      "codename": "RMX2061",
+      "name": "Realme 6 Pro",
+      "supported_versions": [
+         {
+            "device_group": "",
+            "maintainer_name": "Julius Caesar",
+            "maintainer_url": "https://github.com/CxDxVER",
+            "version_code": "fourteen",
+            "version_name": "Fourteen",
+            "xda_thread": ""
+         }
+      ]
+   }
+]
